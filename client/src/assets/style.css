@@ -1,0 +1,40 @@
+body {
+    background:linear-gradient(#e0eafc, #cfdef3);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #000;
+
+    background-size: 100%;
+}
+.TestButton{
+    margin:15em 10em 10em 36.5em;
+}
+.TestButton button {
+    border:0;
+    background:linear-gradient(#fd746c, #ff9068);
+    color:white;
+    border-radius: 1em;
+    padding:0.5em;
+    font-size:2em;
+}
+.h1Body{
+    text-align: center;
+
+    font-family: 'Rubik One', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: linear-gradient(45deg, #0B2349 33%, #0D61BC 66%, #8AA9D6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #0B2349;
+    margin-top:1em;
+}
+video{
+    margin-left: 10em;
+    width: 30em;
+    height:30em;
+}
